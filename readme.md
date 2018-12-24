@@ -2,7 +2,7 @@
 
 ## 0. Компоненты:
 * Laravel 5.7
-* PostgreSQL
+* MySQL
 
 ## 1. Вводное:
 
